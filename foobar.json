@@ -16,6 +16,14 @@
         "#161b22",
         "#0d1117"
       ]
+    },
+    {
+      "id": "d0d19e9f-1b26-43a4-b627-be4db03a1cda",
+      "name": "blue",
+      "colors": [
+        "blue",
+        "darkblue"
+      ]
     }
   ]
 }
