@@ -22,7 +22,14 @@
       "name": "red",
       "colors": [
         "red",
-        "tomato"
+        "darkred"
+      ]
+    },
+    {
+      "id": "4c47059e-41cc-490b-adb6-1a44c68b2398",
+      "name": "blue",
+      "colors": [
+        "blue"
       ]
     }
   ]
